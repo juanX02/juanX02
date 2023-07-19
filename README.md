@@ -3,7 +3,7 @@
 
 - 🌱 Quiero aprender! **nodejs**
 
-- 👨‍💻 soy estudiante de desarrollo de software 
+- 👨‍💻 soy estudiante de **Desarrollo de software**
 
 - 💬 Pregúntame sobre **html , css , js , java, php**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Contacte Conmigo:</h3>
 <p align="left">
-  📞+57 3197773258
+  📞**+57 3197773258**
 </p>
 
 <h3 align="left">Lenguajes & Herramientas:</h3>
