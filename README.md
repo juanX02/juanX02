@@ -3,6 +3,8 @@
 
 - 🌱 Actualmente estoy aprendiendo **nodejs**
 
+- 👨‍💻 soy estudiante de desarrollo de software 
+
 - 💬 Pregúntame sobre **html , css , js , java, php**
 
 - 📫 contactarme **jbjuanbenitezz@gmail.com**
