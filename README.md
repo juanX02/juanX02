@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Juan Guillermo Benitez Villada</h1>
-<h3 align="center">soy desarrollador web en medelli</h3>
+<h3 align="center">soy desarrollador web de la ciudad de Medellin</h3>
 
 - 🌱 Actualmente estoy aprendiendo **nodejs**
 
